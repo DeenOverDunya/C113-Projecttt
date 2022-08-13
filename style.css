@@ -1,0 +1,32 @@
+canvas {
+    border:3px dashed #5B4B8A;
+
+}
+
+body{
+    text-align: center;
+font-family: courgette;
+  background: linear-gradient(#B1E1FF,#AFB4FF,#9C9EFE,#A66CFF)
+  
+   
+}
+
+
+
+
+#h3
+{
+background-color:#A66CFF ;
+font-family:courgette;
+font-size:xx-large;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+
+#takesnap
+{
+    background-color:#A66CFF ;
+    font-size: medium;
+    height: 50px;
+    width:150px;
+}
